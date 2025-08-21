@@ -170,5 +170,8 @@ height: 24px;
 
 .current-user {
   height: 32px;
+  width: 32px;
   border-radius: 16px;
+  object-position: center;
+  object-fit: cover;
 }
